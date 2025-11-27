@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Brock here.. Cosmic destroyer of things.
+Space City Designer, Engineer, & Fabricator.
+
+To Be Continued..
 <!--
 **a-brock/a-brock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
